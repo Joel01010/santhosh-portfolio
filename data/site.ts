@@ -10,7 +10,7 @@ export const navItems = [
 
 export const name = "Santhosh V";
 export const tagline = "AI / ML Engineer · Researcher · Builder";
-export const resumePath = "/Santhosh_V_Resume.pdf";
+export const resumePath = "Santhosh_V_Resume.pdf";
 export const linkedInUrl = "https://www.linkedin.com/in/santhosh-vijayakumar-092702324";
 export const email = "santhosh.v2024c@vitstudent.ac.in";
 export const phone = "+91 98847 25254";
